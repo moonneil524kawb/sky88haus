@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+SKY88 | Nhà Cái Cá Cược Thể Thao Uy Tín Hàng Đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`SKY88 <https://sky88.haus/>`_ - Trang website chính thức về cá cược bóng đá, bắn cá, casino, xóc đĩa, tài xỉu trực tuyến. Truy cập https://sky88.haus/ để trải nghiệm ngay
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://sky88.haus/
 
-.. note::
+Địa chỉ: Đ. 6, Hải Bối, Đông Anh, Hà Nội, Việt Nam
 
-   This project is under active development.
+Điện thoại: 0978939236
 
-Contents
---------
+Zip code: 100000
 
-.. toctree::
+Email: sky88haus@gmail.com
 
-   usage
-   api
+Hastag: #sky88; #nhacaisky88
